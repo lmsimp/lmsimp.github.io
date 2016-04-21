@@ -37,16 +37,19 @@ career:
 
 technicalSkills:
   list:
-    - tr: "System administration and HPC" 
     - tr: "Statistics and experimental design"
     - tr: "Machine learning and pattern recogniton"
+    - tr: "Novelty detection, transfer learning and semi-supervised learning"
     - tr: "High-throughput quantitative proteomics data analysis"
-    - tr: "Molecular modelling"
+    - tr: "Advanced R programmer, Bioconductor package developer"
+    - tr: "Development of data visualisation methods"
+    - tr: "Package development: version control, unit testing, debugging, documentation"
+    - tr: "Reproducible research"
+    - tr: "Development of GUI's in R Shiny for experimental biologists and data exploration"
+    - tr: "Molecular modelling and molecular dynamics simulations"
     - tr: "Protein structure prediction and sequence alignment"
     - tr: "Ligand docking and drug design"
-    - tr: "Reproducible research and data sharing with GitHub"
-    - tr: "Package development: version control, unit testing, debugging, documentation, online interactive tutorials"
-    - tr: "Development of GUI's in R Shiny for experimental biologists and data exploration"
+    - tr: "System administration and HPC" 
   # Machine learning:
   #  - name: Supervised learning/classification
   #    level: 90

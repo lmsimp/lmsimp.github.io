@@ -116,32 +116,11 @@
         <div class="row">
          <div class="col-xs-4">
 
-          <h4 class="techSkillHeader"><i class="fa fa-terminal"></i> Machine learning</h4>
-            {% for item in site.data.cv.technicalSkills.backend %} {{item.name}}
-          <div class="progress">
-            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{item.level}}%"></div>
-          </div>
-          {% endfor %}
-        </div>
-        <div class="col-xs-4">
-          <h4 class="techSkillHeader"><i class="fa fa-code"></i> Programming and OS</h4> {% for item in site.data.cv.technicalSkills.frontend %} {{item.name}}
-          <div class="progress">
-            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{item.level}}%"></div>
-          </div>
-          {% endfor %}
-        </div>
-        <div class="col-xs-4">
-          <h4 class="techSkillHeader"><i class="fa fa-cogs"></i> Other</h4> {% for item in site.data.cv.technicalSkills.other %} {{item.name}}
-          <div class="progress">
-            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{item.level}}%"></div>
-          </div>
-          {% endfor %}
         
         </div>
         </div>
         <div>
           
-          <h4><i class="fa fa-female"></i> Key competencies:</h4>
         <ul>
           {% for item in site.data.cv.technicalSkills.list %}
             <li>{{item.tr}}</li>
