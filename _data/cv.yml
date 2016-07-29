@@ -1,102 +1,126 @@
-url: http://lmsimp.github.io/ projectUrl: lmsimp.github.io
 
-person: name: Lisa Breckels profesion: Computational Biologist
-location: Computational Proteomics Unit, University of Cambridge
-citizenship: UK email: lms79@cam.ac.uk site: cpu.sysbiol.cam.ac.uk
-phone: -- github: /lmsimp
+orl: http://lmsimp.github.io/
+urs: http://lmsimp.github.io/
+n:
+  name: Lisa Breckels 
+  profesion: Computational Biologist
+  location: Computational Proteomics Unit, University of Cambridge
+  citizenship: UK
+  email: lms79@cam.ac.uk
+  site: cpu.sysbiol.cam.ac.uk 
+  phone: --
+  github: /lmsimp
 
 career:
- - position: Post Doctoral Research Associate - Computational
-   Proteomics Unit, University of Cambridge company: location:
-Cambridge, UK dates: November 2010 - current summary: The
-Computational Proteomics Unit (http://cpu.sysbiol.cam.ac.uk) is
-located at Cambridge Centre for Proteomics
-(http://proteomics.bio.cam.ac.uk), which operates the development of
-new proteomics techniques and large scale collaborative projects.
- - position: Undergraduate Mathematics Supervisor - University of
-   Cambridge company: location: Cambridge, UK dates: November 2010 -
-July 2011 summary: Elementary Mathematics supervisor for Wolfson
-College and Newnham College, at the University of Cambridge. In my
-role I was responsible for guiding students in their studies and
-making assessments of their progress. 
- - position: PhD Computational Biology - University of Essex company:
-   location: Colchester, UK dates: October 2010 - August 2010 summary:
-Funded BBSRC CASE (Collaborative Awards in Science and Engineering)
-Award project under the supervision of Prof. Chris Reynolds (Dept. of
-Biological Sciences, University of Essex) and Dr. Ian Wall (GSK,
-Harlow). My main research focused on structure-based drug-design in
-which I used molecular modelling and molecular dynamics simulation
-techniques to gain an insight into the structural and functional
-properties of GPCRs in their multiple states.
- - position: Industrial CASE Student - GSK company: location: Harlow,
-   UK dates: October 2010 - August 2010 summary: I spent several
-months during my PhD (University of Essex, UK), at GSK (Harlow, UK)
-working in the Computational Chemistry Division in R&D, under the
-supervision of Dr Ian Wall and Dr Frank Blaney, as part of my
-industrial CASE (Collaborative Awards in Science and Engineering)
-studentship. My main research focused on using molecular modelling and
-molecular dynamics simulation techniques to gain an insight into the
-structural and functional properties of GPCRs in their multiple
-states.
+ - position: Post Doctoral Research Associate - Computational Proteomics Unit, University of Cambridge 
+   company: 
+   location: Cambridge, UK 
+   dates: November 2010 - current
+   summary: The Computational Proteomics Unit (http://cpu.sysbiol.cam.ac.uk) is located at Cambridge Centre for Proteomics (http://proteomics.bio.cam.ac.uk), which operates the development of new proteomics techniques and large scale collaborative projects. 
+   accomplishments:
+    - accomplishment: Development of bioinformatics and statistical tools, that utilise pattern recognition and machine learning methods to enable robust analysis of high-throughput quantitative proteomics data. 
+ - position: Undergraduate Mathematics Supervisor - University of Cambridge 
+   company: 
+   location: Cambridge, UK
+   dates: November 2010 - July 2011
+   summary: Elementary Mathematics supervisor for Wolfson College and Newnham College, at the University of Cambridge. In my role I was responsible for guiding students in their studies and making assessments of their progress. 
+ - position: PhD Computational Biology - University of Essex 
+   company: 
+   location: Colchester, UK
+   dates: October 2010 - August 2010
+   summary: Funded BBSRC CASE (Collaborative Awards in Science and Engineering) Award project under the supervision of Prof. Chris Reynolds (Dept. of Biological Sciences, University of Essex) and Dr. Ian Wall (GSK, Harlow). My main research focused on structure-based drug-design in which I used molecular modelling and molecular dynamics simulation techniques to gain an insight into the structural and functional properties of GPCRs in their multiple states.
+ - position: Industrial CASE Student - GSK
+   company: 
+   location: Harlow, UK
+   dates: October 2010 - August 2010
+   summary: I spent several months during my PhD (University of Essex, UK), at GSK (Harlow, UK) working in the Computational Chemistry Division in R&D, under the supervision of Dr Ian Wall and Dr Frank Blaney, as part of my industrial CASE (Collaborative Awards in Science and Engineering) studentship. My main research focused on using molecular modelling and molecular dynamics simulation techniques to gain an insight into the structural and functional properties of GPCRs in their multiple states.
 
-technicalSkills: list:
+technicalSkills:
+  list:
     - tr: "Statistics and experimental design"
     - tr: "Machine learning and pattern recogniton"
-    - tr: "Novelty detection, transfer learning and semi-supervised
-      learning"
+    - tr: "Novelty detection, transfer learning and semi-supervised learning"
     - tr: "High-throughput quantitative proteomics data analysis"
     - tr: "Advanced R programmer, Bioconductor package developer"
     - tr: "Development of data visualisation methods"
-    - tr: "Package development: version control, unit testing,
-      debugging, documentation"
+    - tr: "Package development: version control, unit testing, debugging, documentation"
     - tr: "Reproducible research"
-    - tr: "Development of GUI's in R Shiny for experimental biologists
-      and data exploration"
+    - tr: "Development of GUI's in R Shiny for experimental biologists and data exploration"
     - tr: "Molecular modelling and molecular dynamics simulations"
     - tr: "Protein structure prediction and sequence alignment"
     - tr: "Ligand docking and drug design"
     - tr: "System administration and HPC" 
-  # Machine learning: - name: Supervised learning/classification
-  # level: 90 - name: Unsupervised/clustering level: 70 - name:
-  # Semi-supervised learning level: 80 - name: Transfer learning
-  # level: 90 Programming and OS: - name: Linux level: 90 - name: Mac
-  # level: 90 - name: Windows level: 70 - High Performance Computing
-  # level: 70 - name: R level: 90 - name: Shiny level: 85 - name:
-  # Fortran level: 50 - name: Python level: 30 - name: Perl level: 30
-  # - name: Matlab level: 60 - name: LaTeX level: 80 - name: Markdown
-  # level: 80 Other: - name: Cooking (I make a mean Beef Wellington)
-  # level: 90 - name: Snowboarding level: 80 - name: Kayaking level:
-  # 15 - name: Running (1000k challenge!) level: 70 - name: Climbing
-  # level: 60
+  # Machine learning:
+  #  - name: Supervised learning/classification
+  #    level: 90
+  #  - name: Unsupervised/clustering
+  #    level: 70
+  #  - name: Semi-supervised learning
+  #    level: 80
+  #  - name: Transfer learning
+  #    level: 90
+  # Programming and OS:
+  #  - name: Linux
+  #    level: 90
+  #  - name: Mac
+  #    level: 90
+  #  - name: Windows
+  #    level: 70
+  #  - High Performance Computing
+  #    level: 70 
+  #  - name: R
+  #    level: 90
+  #  - name: Shiny
+  #    level: 85
+  #  - name: Fortran
+  #    level: 50
+  #  - name: Python
+  #    level: 30
+  #  - name: Perl
+  #    level: 30
+  #  - name: Matlab
+  #    level: 60
+  #  - name: LaTeX
+  #    level: 80 
+  #  - name: Markdown
+  #    level: 80
+  # Other:
+  #  - name: Cooking (I make a mean Beef Wellington)
+  #    level: 90
+  #  - name: Snowboarding 
+  #    level: 80
+  #  - name: Kayaking
+  #    level: 15
+  #  - name: Running (1000k challenge!)
+  #    level: 70
+  #  - name: Climbing
+  #    level: 60
 
 sideProjects:
-  - name: pRolocGUI description: The pRolocGUI package is an
-    interactive interface to explore and visualise experimental mass
-spectrometry-based spatial proteomics data. It relies on the shiny
-framework for interactive visualisation, the MSnbase package to handle
-data and metadata and the pRoloc software for spatial proteomics
-specific data matters. Example spatial data is available in the
-pRolocdata experiment package.  link:
-https://github.com/ComputationalProteomicsUnit/pRolocGUI type: github
-langs: R
+  - name: pRolocGUI
+    description: The pRolocGUI package is an interactive interface to explore and visualise experimental mass spectrometry-based spatial proteomics data. It relies on the shiny framework for interactive visualisation, the MSnbase package to handle data and metadata and the pRoloc software for spatial proteomics specific data matters. Example spatial data is available in the pRolocdata experiment package. 
+    link: https://github.com/ComputationalProteomicsUnit/pRolocGUI 
+    type: github
+    langs: R
 
-  - name: pRoloc description: The pRoloc suite set of software are
-    distributed as part of the R/Bioconductor project and are
-developed at the Computational Proteomics Unit and Cambridge Centre
-for Proteomics labs, at the University of Cambridge.  link:
-https://github.com/lgatto/pRoloc type: github langs: R/C++
+  - name: pRoloc 
+    description: The pRoloc suite set of software are distributed as part of the R/Bioconductor project and are developed at the Computational Proteomics Unit and Cambridge Centre for Proteomics labs, at the University of Cambridge.
+    link: https://github.com/lgatto/pRoloc 
+    type: github
+    langs: R/C++
 
-  - name: pRolocdata description: Accompanying package to pRoloc
-    containing high-throughput mass-spectrometry based spatial
-proteomics data sets from Dunkley et al. (2006), Foster et al. (2006),
-Tan et al. (2009), Trotter et al. (2010), Ferro et al. (2010),
-Nikolovski et al. (2012), Havugimana (2012), Kirkwood (2013), Breckels
-et al. (2013), Groen (2014), Fabre (2015), Christoforou (2016),
-Breckels (2016). Bioconductor (2012).  link:
-https://github.com/lgatto/pRolocdata type: github langs: R
+  - name: pRolocdata
+    description: Accompanying package to pRoloc containing high-throughput mass-spectrometry based spatial proteomics data sets from Dunkley et al. (2006), Foster et al. (2006), Tan et al. (2009), Trotter et al. (2010), Ferro et al. (2010), Nikolovski et al. (2012), Havugimana (2012), Kirkwood (2013), Breckels et al. (2013), Groen (2014), Fabre (2015), Christoforou (2016), Breckels (2016). Bioconductor (2012).
+    link: https://github.com/lgatto/pRolocdata
+    type: github
+    langs: R
 
 education:
-  - name: University of Essex degree: PhD Computational Biology
-    location: Wivnehoe Park, Colchester dates: 2006 – 2010
-  - name: University of Essex degree: BSc (Hons) Mathematics location:
-    Wivnehoe Park, Colchester dates: 2003 - 2006
+  - name: University of Essex
+    degree: PhD Computational Biology
+    location: Wivnehoe Park, Colchester
+    dates: 2006 – 2010
+  - name: University of Essex
+    degree: BSc (Hons) Mathematics
+    location: Wivnehoe Park, Colchester
+    dates: 2003 - 2006
