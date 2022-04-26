@@ -54,9 +54,24 @@ content:
       - layout: top-middle
         link: github.com/ococrook/bandle
         additional_links:
-          - title:  github.com/lgatto/pRoloc
+          - title: github.com/ococrook/bandle 
             icon: fab fa-github
-        description:
+      - layout: top-middle
+        link: https://bioconductor.org/packages/release/bioc/html/pRoloc.html
+        additional_links:
+          - title: github.com/lgatto/pRoloc
+            icon: fab fa-github
+      - layout: top-middle
+        link: https://bioconductor.org/packages/release/bioc/html/pRolocGUI.html
+        additional_links:
+          - title: github.com/lgatto/pRoloc 
+            icon: fab fa-github
+      - layout: top-middle
+        link: https://bioconductor.org/packages/release/data/experiment/html/pRolocdata.html
+        additional_links:
+          - title: github.com/lgatto/pRolocdata
+            icon: fab fa-github  
+    description:
           I am authors on several Bioconductor R packages for Spatial Proteomics data analysis and have been working at the Cambridge Centre for Proteomics since November 2010.
 
   - title: Experience # Title for the section
