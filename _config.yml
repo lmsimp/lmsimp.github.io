@@ -8,19 +8,19 @@ version: 2
 name: Lisa Breckels (Simpson)
 title: Research Scientist - Computational Biologist
 email: lms79@cam.ac.uk
-website: www.github.com/lmsimp/lmsimp.github.io
+website: http://lmsimp.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-github_username:  lmsimp
+github_username: lmsimp
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: lisabreckels
+linkedin_username: https://uk.linkedin.com/in/lisa-breckels-née-simpson-41026087
 # xing_username: jekyll
 # pinterest_username: jekyll
 orcid_username: 0000-0001-8918-7171
@@ -52,20 +52,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/lgatto/pRoloc
-        link: github.com/lgatto/pRolocGUI
-        link: github.com/lgatto/pRolocdata
         link: github.com/ococrook/bandle
-        # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  github.com/lgatto/pRoloc
             icon: fab fa-github
-            url: github.com/lmsimp/lmsimp.github.io
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+        description:
           I am authors on several Bioconductor R packages for Spatial Proteomics data analysis and have been working at the Cambridge Centre for Proteomics since November 2010.
 
   - title: Experience # Title for the section
