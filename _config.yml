@@ -1,3 +1,111 @@
-url: http://lmsimp.github.io
-projectUrl: lmsimp.github.io 
+# Site
+repository: lmsimp/lmsimp.github.io
 
+# Content configuration version
+version: 2
+
+# Personal info
+name: Lisa Breckels (Simpson)
+title: Research Scientist - Computational Biologist
+email: lms79@cam.ac.uk
+website: www.github.com/lmsimp/lmsimp.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  lmsimp
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: lisabreckels
+# xing_username: jekyll
+# pinterest_username: jekyll
+orcid_username: 0000-0001-8918-7171
+
+# Additional icon links
+additional_links:
+- title: https://proteomics.bio.cam.ac.uk/research-team
+  icon: fas fa-globe
+  url: https://proteomics.bio.cam.ac.uk/research-team
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+# about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Lisa and I'm a Research Scientist and Computational Biologist based at the Cambridge Centre for Proteomics located at The University of Cambridge, UK.
+
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/lgatto/pRoloc
+        link: github.com/lgatto/pRolocGUI
+        link: github.com/lgatto/pRolocdata
+        link: github.com/ococrook/bandle
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/lmsimp/lmsimp.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          I am authors on several Bioconductor R packages for Spatial Proteomics data analysis and have been working at the Cambridge Centre for Proteomics since November 2010.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Research Scientist 
+        link: Cambridge Centre for Proteomics, University of Cambridge, UK
+        link_text: https://proteomics.bio.cam.ac.uk
+
+        caption: November 2010 - Present
+        description:
+           Spatial proteomics data analysis, machine learning, R programmer, Bioconductor package developer 
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Essex 
+        caption: 2006 - 2010
+        sub_title: PhD Computational Chemistry/Biology
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+              Funded BBSRC CASE (Collaborative Awards in Science and Engineering) Award project under the supervision of Prof. Chris Reynolds (Dept. of Biological Sciences, University of Essex) and Dr. Ian Wall (GSK, Harlow). My main research focused on structure-based drug-design in which I used molecular modelling and molecular dynamics simulation techniques to gain an insight into the structural and functional properties of GPCRs in their multiple states.
+      - layout: left
+        title: University of Essex
+        caption: 2003-2006
+        sub_title: BSc (Hons) Mathematics (1st Class)
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
