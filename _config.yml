@@ -64,7 +64,16 @@ content:
         # quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          [The <mark>bandle</mark> package](https://bioconductor.org/packages/devel/bioc/html/bandle.html): bandle is...
+          The <mark>bandle</mark> package]: [bandle](https://bioconductor.org/packages/devel/bioc/html/bandle.html) is an R package for 
+          the Bayesian analysis of differential subcellular localisation experiments.
+          
+          The <mark>pRoloc</mark> package]: [pRoloc](https://bioconductor.org/packages/release/bioc/html/pRoloc.html) implements machine learning and visualisation methods for the analysis and interogation of quantitiative mass spectrometry data to reliably infer protein sub-cellular localisation.
+          
+          The <mark>pRolocGUI</mark> package]: [pRolocGUI](https://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) comprises functions to interactively visualise organelle (spatial) proteomics data on the basis of pRoloc, pRolocdata and [shiny](https://shiny.rstudio.com).
+          
+          The <mark>pRolocdata</mark> package]: [pRolocdata](https://bioconductor.org/packages/release/data/experiment/html/pRolocdata.html) is a data package containing mass-spectrometry based spatial proteomics data sets and protein complex separation data. 
+          
+          
           
       - layout: top-middle
         title: Spatial Proteomics at CCP
