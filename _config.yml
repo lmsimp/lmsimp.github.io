@@ -52,7 +52,7 @@ content:
     content:
       - layout: top-middle
         title: Bioconductor package contributions
-      - layout: top-left
+      - layout: left
         - title: <mark>bandle</mark>
            link: github.com/ococrook/bandle
         additional_links:
