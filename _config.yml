@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Lisa Breckels (Simpson)
-title: Research Scientist - Computational Biologist
+title: Research Associate and Computational Biologist
 email: lms79@cam.ac.uk
 website: http://lmsimp.github.io
 
@@ -41,11 +41,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: About
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lisa and I'm a Research Scientist and Computational Biologist based at the Cambridge Centre for Proteomics located at The University of Cambridge, UK.
-
+  Computational Biologist located at the Cambridge Centre for Proteomics (CCP), University of Cambridge, UK. My main area of research focuses on computational analysis of high-throughput quantitative spatial proteomics data and development of new machine learning tools and R packages.
 
 content:
   - title: Projects # Title for the section
@@ -78,24 +77,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Research Scientist 
+        title: Computational Biologist, University of Cambridge
         link: Cambridge Centre for Proteomics, University of Cambridge, UK
         link_text: https://proteomics.bio.cam.ac.uk
-
         caption: November 2010 - Present
         description:
-           Spatial proteomics data analysis, machine learning, R programmer, Bioconductor package developer 
+           I am a Postdoctoral Research Associate in [Professor Kathryn Lilley]( https://proteomics.bio.cam.ac.uk) group located in Cambridge Centre for Proteomics at the University of Cambridge. My research focuses on R package development and the computational analysis of high-throughput quantitative spatial proteomics data. This includes the application and development of new machine learning tools. Our work is contributed to the R Bioconductor project in the form of dedicated software packages (see projects) pioneered by [Prof Laurent Gatto](https://lgatto.github.io/about) at UCLouvain, Belgium. 
+           
+      - layout: left
+        title: Undergraduate Mathematics Supervisor, University of Cambridge
+        caption: November 2010 - July 2011
+        description:
+           Elementary Mathematics supervisor for Wolfson College and Newnham College at the University of Cambridge.
+
+      - layout: left
+        title: Industrial CASE Student, GlaxoSmithKline (GSK), Harlow, UK
+        caption: October 2006 - May 2010
+        description:
+           CASE (Collaborative Awards in Science and Engineering) PhD studentship with GSK (Harlow, UK) working in the Computational Chemistry Division in R&D, under the supervision of Dr Ian Wall and Dr Frank Blaney. My main research focused on using molecular modelling and molecular dynamics simulation techniques to gain an insight into the structural and functional properties of GPCRs in their multiple states.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
       - layout: left
         title: University of Essex 
         caption: 2006 - 2010
         sub_title: PhD Computational Chemistry/Biology
-        quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: 
               Funded BBSRC CASE (Collaborative Awards in Science and Engineering) Award project under the supervision of Prof. Chris Reynolds (Dept. of Biological Sciences, University of Essex) and Dr. Ian Wall (GSK, Harlow). My main research focused on structure-based drug-design in which I used molecular modelling and molecular dynamics simulation techniques to gain an insight into the structural and functional properties of GPCRs in their multiple states.
+              
       - layout: left
         title: University of Essex
         caption: 2003-2006
@@ -104,7 +116,6 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
