@@ -87,14 +87,14 @@ content:
            
       - layout: left
         title: University of Cambridge
-        subtitle: Undergraduate Mathematics Supervisor
+        sub_title: Undergraduate Mathematics Supervisor
         caption: November 2010 - July 2011
         description:
            Elementary Mathematics supervisor for Wolfson College and Newnham College at the University of Cambridge.
 
       - layout: left
         title: GlaxoSmithKline (GSK)
-        subtitle: Industrial CASE Student
+        sub_title: Industrial CASE Student
         caption: October 2006 - May 2010
         description:
            CASE (Collaborative Awards in Science and Engineering) PhD studentship with GSK (Harlow, UK) working in the Computational Chemistry Division in R&D, under the supervision of Dr Ian Wall and Dr Frank Blaney. My main research focused on using molecular modelling and molecular dynamics simulation techniques to gain an insight into the structural and functional properties of GPCRs in their multiple states.
