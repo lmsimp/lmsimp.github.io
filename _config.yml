@@ -47,18 +47,9 @@ about_content: | # this will include new lines to allow paragraphs
   Computational Biologist located at the Cambridge Centre for Proteomics (CCP), University of Cambridge, UK. My main area of research focuses on computational analysis of high-throughput quantitative spatial proteomics data and development of new machine learning tools and R packages.
 
 content:
+
   - title: Software # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Bioconductor package contributions
-        
-      - layout: left
-        title: <mark>bandle</mark>
-           link: github.com/ococrook/bandle
-        additional_links:
-            icon: fab fa-github
-            url: github.com/ococrook/bandle 
+
 
    
   - title: Experience # Title for the section
