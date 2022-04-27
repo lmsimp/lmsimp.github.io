@@ -149,6 +149,127 @@ content:
         sub_title: BSc (Hons) Mathematics (1st Class)
 
 
+- title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        description:
+
+Eneko Villanueva, Tom Smith, Mariavittoria Pizzinga, Mohamed Elzek, Rayner ML Queiroz, Robert F Harvey, Lisa M Breckels, Oliver M Crook, Mie Monti, Veronica Dezi, Anne E Willis, Kathryn S Lilley. *A system-wide quantitative map of RNA and protein subcellular localisation dynamics* bioRxiv 2022 DOI:[10.1101/2022.01.24.477541](https://doi.org/10.1101/2022.01.24.477541)
+
+
+Oliver M. Crook, Colin T. R. Davies, Lisa M. Breckels, Josie A. Christopher, Laurent Gatto, Paul D.W. Kirk, Kathryn S. Lilley. *Inferring differential subcellular localisation in comparative spatial proteomics using BANDLE* 2021 bioRxiv DOI:[2021.01.04.425239](https://doi.org/10.1101/2021.01.04.425239)
+
+Mulvey CM, Breckels LM, Crook O, Sanders D, Ribeiro A, Geladaki A,
+Christoforou A, Britovsek NK, Hurrell T, Deery MJ, Gatto L, Smith A,
+and Lilley KS. *Spatiotemporal proteomic profiling of the
+pro-inflammatory response to lipopolysaccharide in the THP-1 human
+leukaemia cell line* Nat Commun 12, 5773
+(2021). DOI:[10.1038/s41467-021-26000-9](https://doi.org/10.1038/s41467-021-26000-9)
+
+
+Baers LL, Breckels LM, Mills LA, Gatto L, Deery M, Stevens TJ, Howe
+CH, Lilley KS, Lea-Smith DJ *Proteome mapping of a cyanobacterium
+reveals distinct compartment organisation and cell-dispersed
+metabolism*, Plant Physiology 2019
+[https://doi.org/10.1104/pp.19.00897](https://doi.org/10.1104/pp.19.00897).
+
+Laurent Gatto, Lisa M Breckels, Kathryn S Lilley *Assessing
+sub-cellular resolution in spatial proteomics experiments* Current
+Opinion in Chemical Biology, 48 123-149
+(2019) DOI:[10.1016/j.cbpa.2018.11.015](https://doi.org/10.1016/j.cbpa.2018.11.015).
+
+Aikaterini Geladaki, Nina Kocevar Britovsek, Lisa M. Breckels, Tom
+S. Smith, Claire M. Mulvey, Oliver M. Crook, Laurent Gatto, Kathryn
+S. Lilley [*Combining LOPIT with differential ultracentrifugation for
+high-resolution spatial
+proteomics*](https://www.nature.com/articles/s41467-018-08191-w)
+Nature Communications volume 10, Article number:331 (2019) (pre-print
+[10.1101/378364](https://doi.org/10.1101/378364)).
+
+Thul PJ, *et al.* *A subcellular map of the human
+proteome*. Science. 2017 May 11. pii:
+eaal3321. [doi:10.1126/science.aal3321](http://science.sciencemag.org/content/early/2017/05/10/science.aal3321). [Epub ahead of print]
+PubMed [PMID:28495876](https://www.ncbi.nlm.nih.gov/pubmed/28495876).
+
+Mulvey CM, Breckels LM, Geladaki A, Kocevar Britovsek N, Nightingale
+DJH, Christoforou A , Elzek M, Deery MJ, Gatto L, Lilley KS. *Using
+HyperLOPIT to perform high-resolution mapping of the spatial
+proteome*. Nature Protocols, 12, 1110–1135 (2017)
+[doi:10.1038/nprot.2017.026](https://www.nature.com/nprot/journal/v12/n6/full/nprot.2017.026.html)
+(See the
+[F1000Research workflow](https://f1000research.com/articles/5-2926/)
+for details on the computational side of the protocol.)
+
+Breckels LM, Mulvey CM, Lilley KS and Gatto L. *A Bioconductor
+workflow for processing and analysing spatial proteomics
+data* F1000Research 2016, 5:2926
+([doi:10.12688/f1000research.10411.1](https://f1000research.com/articles/5-2926/)).
+[Software: [MSnbase](http://bioconductor.org/packages/MSnbase),
+[pRoloc](http://bioconductor.org/packages/pRoloc),
+[pRolocGUI](http://bioconductor.org/packages/pRolocGUI)]
+
+Breckels LM, Holden S, Wonjar D, Mulvey CM, Christoforou A, Groen AJ,
+Kohlbacher O, Lilley KS, Gatto L. *Learning from heterogeneous data
+sources: an application in spatial proteomics*. PLoS Comput Biol. 2016
+May 13;12(5):e1004920
+[doi:10.1371/journal.pcbi.1004920](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004920),
+[Software](http://bioconductor.org/packages/release/bioc/html/pRoloc.html))
+
+Christoforou A, Mulvey CM, Breckels LM, Geladaki A, Hurrell T, Hayward
+PC, Naake T, Gatto L, Viner R, Arias AM, Lilley KS. A draft map of the
+mouse pluripotent stem cell spatial proteome. Nat Commun. 2016 Jan
+12;7:9992
+[doi:10.1038/ncomms9992](http://www.nature.com/ncomms/2016/160112/ncomms9992/abs/ncomms9992.html)
+([PMID:26754106](http://www.ncbi.nlm.nih.gov/pubmed/26754106),
+[data](http://www.bioconductor.org/packages/release/data/experiment/html/pRolocdata.html),
+[PRIDE](http://www.ebi.ac.uk/pride/archive/projects/PXD001279),
+[resource](https://lgatto.shinyapps.io/christoforou2015/))
+
+Gatto L, Breckels LM, Naake T and Gibb S *Visualisation of proteomics
+data using R and Bioconductor*. Proteomics. 2015
+Feb 18. doi:10.1002/pmic.201400392
+([PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25690415),
+[Publisher](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201400392/abstract)
+and software:
+[Bioconductor](http://bioconductor.org/packages/devel/data/experiment/html/RforProteomics.html),
+[github](https://github.com/lgatto/RforProteomics)).
+
+Tomizioli M, <i>et al.</i> *Deciphering thylakoid sub-compartments
+using a mass spectrometry-based approach*, Mol Cell Proteomics. 2014
+May 28. (<a
+href="http://mcponline.org/content/early/2014/05/28/mcp.M114.040923.abstract">Publisher</a>,
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24872594">PubMed</a>)
+Gatto L, <i>et al.</i> *A foundation for reliable spatial proteomics
+data analysis*, Mol Cell Proteomics. 2014 Aug;13(8):1937-52. (<a
+href="http://www.mcponline.org/content/13/8/1937.long">Publisher</a>,
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24846987">PubMed</a>, <a
+href="http://www.bioconductor.org/packages/devel/bioc/html/pRoloc.html">software</a>,
+<a
+href="http://www.genomeweb.com/proteomics/cambridge-researchers-outline-best-practices-analysis-organelle-proteomics-data">press
+coverage</a>)
+
+Gatto L., Breckels L.M, Burger T, Wieczorek S. and Lilley
+K.S. *Mass-spectrometry based spatial proteomics data analysis using
+pRoloc and pRolocdata*, Bioinformatics, 2014 (<a
+href="http://www.bioconductor.org/packages/release/bioc/html/pRoloc.html">software</a>,
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24413670">PubMed</a>,
+<a href="http://bioinformatics.oxfordjournals.org/content/30/9/1322">publisher</a>,
+<a href="http://www.bioconductor.org/packages/release/bioc/html/pRoloc.html">software</a>
+and <a href="http://www.bioconductor.org/packages/release/data/experiment/html/pRolocdata.html">data</a>).
+
+Groen A., Sancho-Andr&eacute;s G., Breckels LM., Gatto L., Aniento
+F. and Lilley K.S. *Identification of Trans Golgi Network proteins in
+Arabidopsis thaliana root tissue* Journal of Proteome Research, 2013
+(<a href="http://www.ncbi.nlm.nih.gov/pubmed/24344820">PubMed</a>, <a
+href="http://pubs.acs.org/doi/abs/10.1021/pr4008464">publisher</a>).
+
+Breckels L.M., Gatto L., Christoforou A., Groen A.J., Lilley K.S. and
+Trotter M.W.B.  *The Effect of Organelle Discovery upon Sub-Cellular
+Protein Localisation*, Journal of Proteomics, 2013 (<a
+href="http://www.ncbi.nlm.nih.gov/pubmed/23523639">PubMed</a>,
+<a href="http://www.bioconductor.org/packages/release/bioc/html/pRoloc.html">software</a>).
+
 # Footer
 footer_show_references: true
 
