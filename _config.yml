@@ -63,6 +63,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #  Some quote info here
+        description: something ...
         
         - layout: left
         sub_title: <mark>bandle</mark>
