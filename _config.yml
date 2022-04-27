@@ -42,7 +42,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-# about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Lisa and I'm a Research Scientist and Computational Biologist based at the Cambridge Centre for Proteomics located at The University of Cambridge, UK.
 
