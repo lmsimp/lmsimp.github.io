@@ -63,26 +63,27 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #  Some quote info here
-        content: 
         
-        - layout: left
-        sub_title: <mark>bandle</mark>
-        description: The [bandle](https://bioconductor.org/packages/devel/bioc/html/bandle.html) is an R package for 
-          the Bayesian analysis of differential subcellular localisation experiments.
-          
-        - layout: left
-        sub_title: <mark>pRoloc</mark>
-        description: [pRoloc](https://bioconductor.org/packages/release/bioc/html/pRoloc.html) implements machine learning and visualisation methods for the analysis and interogation of quantitiative mass spectrometry data to reliably infer protein sub-cellular localisation.
+        #content: 
         
-        #description: | # this will include new lines to allow paragraphs
-        #  The <mark>bandle</mark> package: [bandle](https://bioconductor.org/packages/devel/bioc/html/bandle.html) is an R package for 
+        #- layout: left
+        #sub_title: <mark>bandle</mark>
+        #description: The [bandle](https://bioconductor.org/packages/devel/bioc/html/bandle.html) is an R package for 
         #  the Bayesian analysis of differential subcellular localisation experiments.
         #  
-        #  The <mark>pRoloc</mark> package: [pRoloc](https://bioconductor.org/packages/release/bioc/html/pRoloc.html) implements machine learning and visualisation methods for the analysis and interogation of quantitiative mass spectrometry data to reliably infer protein sub-cellular localisation.
-        #  
-        #  The <mark>pRolocGUI</mark> package: [pRolocGUI](https://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) comprises functions to interactively visualise organelle (spatial) proteomics data on the basis of pRoloc, pRolocdata and [shiny](https://shiny.rstudio.com).
-        #  
-        #  The <mark>pRolocdata</mark> package: [pRolocdata](https://bioconductor.org/packages/release/data/experiment/html/pRolocdata.html) is a data package containing mass-spectrometry based spatial proteomics data sets and protein complex separation data. 
+        #- layout: left
+        #sub_title: <mark>pRoloc</mark>
+        #description: [pRoloc](https://bioconductor.org/packages/release/bioc/html/pRoloc.html) implements machine learning and visualisation methods for the analysis and interogation of quantitiative mass spectrometry data to reliably infer protein sub-cellular localisation.
+        
+        description: | # this will include new lines to allow paragraphs
+          The <mark>bandle</mark> package: [bandle](https://bioconductor.org/packages/devel/bioc/html/bandle.html) is an R package for 
+          the Bayesian analysis of differential subcellular localisation experiments.
+          
+          The <mark>pRoloc</mark> package: [pRoloc](https://bioconductor.org/packages/release/bioc/html/pRoloc.html) implements machine learning and visualisation methods for the analysis and interogation of quantitiative mass spectrometry data to reliably infer protein sub-cellular localisation.
+         
+          The <mark>pRolocGUI</mark> package: [pRolocGUI](https://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) comprises functions to interactively visualise organelle (spatial) proteomics data on the basis of pRoloc, pRolocdata and [shiny](https://shiny.rstudio.com).
+          
+          The <mark>pRolocdata</mark> package: [pRolocdata](https://bioconductor.org/packages/release/data/experiment/html/pRolocdata.html) is a data package containing mass-spectrometry based spatial proteomics data sets and protein complex separation data. 
           
           
           
