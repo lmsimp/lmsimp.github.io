@@ -44,7 +44,7 @@ additional_links:
 # about_title: About
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Computational Biologist located at the Cambridge Centre for Proteomics (CCP), University of Cambridge, UK. My main area of research focuses on computational analysis of high-throughput quantitative spatial proteomics data and development of new machine learning tools and R packages.
+  Computational Biologist located at the [Cambridge Centre for Proteomics (CCP)](https://proteomics.bio.cam.ac.uk), University of Cambridge, UK. [My main area of research](https://scholar.google.co.uk/citations?user=SJoJ3n0AAAAJ&hl=en) focuses on computational analysis of high-throughput quantitative spatial proteomics data and development of new machine learning tools and R packages.
 
 content:
   - title: Projects # Title for the section
@@ -84,6 +84,7 @@ content:
           The <mark>pRolocGUI</mark> package: [pRolocGUI](https://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) comprises functions to interactively visualise organelle (spatial) proteomics data on the basis of pRoloc, pRolocdata and [shiny](https://shiny.rstudio.com).
           
           The <mark>pRolocdata</mark> package: [pRolocdata](https://bioconductor.org/packages/release/data/experiment/html/pRolocdata.html) is a data package containing mass-spectrometry based spatial proteomics data sets and protein complex separation data. 
+
           
           
           
@@ -101,7 +102,7 @@ content:
         # quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Put some bullet points here of current projects ...
+          I am involved in many collaborations within the Lilley Lab and work closely with wet lab biologists on downstream data analysis of proteomics data, generated from different technologies and cell lines.
 
    
   - title: Experience # Title for the section
