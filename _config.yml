@@ -65,6 +65,22 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           The <mark>bandle</mark> package: bandle is...
+          
+      - layout: top-middle
+        title: Spatial Proteomics at CCP
+        # link: github.com/lmsimp
+        # link_text: Project Website
+        additional_links:
+          - title: 
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Put some bullet points here of current projects ...
 
    
   - title: Experience # Title for the section
