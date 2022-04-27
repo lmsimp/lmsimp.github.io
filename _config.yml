@@ -148,11 +148,9 @@ content:
         caption: 2003-2006
         sub_title: BSc (Hons) Mathematics (1st Class)
 
-
-- title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
+- layout: left
+        title: Publications
+        caption: 2006 - Present
         description:
 
 Eneko Villanueva, Tom Smith, Mariavittoria Pizzinga, Mohamed Elzek, Rayner ML Queiroz, Robert F Harvey, Lisa M Breckels, Oliver M Crook, Mie Monti, Veronica Dezi, Anne E Willis, Kathryn S Lilley. *A system-wide quantitative map of RNA and protein subcellular localisation dynamics* bioRxiv 2022 DOI:[10.1101/2022.01.24.477541](https://doi.org/10.1101/2022.01.24.477541)
