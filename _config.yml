@@ -57,14 +57,14 @@ content:
         additional_links:
           - title:  github.com/lmsimp
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/lmsimp
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          The <mark>bandle</mark> package: bandle is...
+          [The <mark>bandle</mark> package](https://bioconductor.org/packages/devel/bioc/html/bandle.html): bandle is...
           
       - layout: top-middle
         title: Spatial Proteomics at CCP
