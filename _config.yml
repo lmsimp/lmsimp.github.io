@@ -51,7 +51,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Bioconductor Contributions
+        title: R Bioconductor Contributions
         # link: github.com/lmsimp
         # link_text: Project Website
         additional_links:
